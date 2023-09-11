@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambhargav10&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhargav10" /> </p>
 
-- 👨‍💻 All of my projects are available at shubhambhargav10.github.io
+- 👨‍💻 All of my projects are available at https://shubhambhargav10.github.io
 
 - 💬 Ask me about *react,HTML,CSS, and javascript*
 
